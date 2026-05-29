@@ -1,0 +1,8 @@
+body{background-color:rgb(170, 168, 172);}
+.cabecalho{background-color: black; height: 70px; width: 100%;}
+header img{display:flex;justify-content: space-between; align-items: center;}
+.menu{display: flex; justify-content: center; color: white; text-align: center;}
+.icon-ronphi{margin:0 50px; padding: 0;}
+.btn-sobre{border-radius: 5px;background-color: bisque; height: 20px; width: 90px;}
+.btn-contato{border-radius: 5px;background-color: bisque; height: 20px; width: 90px;}
+hr{width: 100%; border-color: black;}
