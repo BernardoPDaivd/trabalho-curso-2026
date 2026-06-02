@@ -3,6 +3,14 @@ body{background-color:rgb(170, 168, 172);}
 header img{display:flex;justify-content: space-between; align-items: center;}
 .menu{display: flex; justify-content: center; color: white; text-align: center;}
 .icon-ronphi{margin:0 50px; padding: 0;}
-.btn-sobre{border-radius: 5px;background-color: bisque; height: 20px; width: 90px;}
+.btn-osdois{margin: 5px; padding: 20px; display: flex; justify-content: center; align-items: center;}
+.btn-sobre{border-radius: 5px;background-color: bisque; height: 20px; width: 90px; margin-left: 10px;}
 .btn-contato{border-radius: 5px;background-color: bisque; height: 20px; width: 90px;}
 hr{width: 100%; border-color: black;}
+.rodpe{display: flex; justify-content: space-between; align-items:center; width: 700px;}
+.tele{display: flex; justify-content:right;}
+.name{display: flex; justify-content: center; margin-bottom: 10px;}
+.email{display: flex; justify-content:center; margin-bottom: 10px;}
+.assunto{display: flex; justify-content: center; margin-bottom: 10px;}
+.mensagem{display: flex; justify-content: center;margin-bottom: 10px;}
+.voltar{margin: 20px;}
